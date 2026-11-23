@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jshenshi.twa",
+        "sha256_cert_fingerprints": ["86:B5:05:FC:4E:CC:97:49:E9:96:63:C4:3D:8F:DA:4E:43:37:28:12:93:8D:87:41:76:E3:A4:77:75:A5:0E:EF"]
+      }
+    }]
